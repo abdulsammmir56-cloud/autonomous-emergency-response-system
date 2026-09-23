@@ -419,10 +419,18 @@ to observe the system response.
 
 ## 🌐 Wokwi Simulation
 
-The project is designed to run in the **Wokwi ESP32 simulator**.
+The project is designed and tested using the **Wokwi ESP32 simulator**.
 
-**Wokwi project:**
-*Add the project link here after creating/saving the simulation.*
+▶️ **[Run the Autonomous Emergency Response System in Wokwi](https://wokwi.com/projects/475979520271367169)**
+
+The simulation allows the system to be tested by changing sensor conditions and observing the corresponding:
+
+* Risk-state transitions
+* LED indicators
+* Buzzer alerts
+* Servo movement
+* OLED dashboard
+* Serial Monitor output
 
 ---
 
